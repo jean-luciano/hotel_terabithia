@@ -32,7 +32,7 @@ fun ar_condicionado() {
 
     when (escolha) {
         "S" -> ar_condicionado()
-        "N" -> sairDoHotel()
+        "N" -> main()
 
         else ->{
             println("Desculpe, mas não compreendi.")

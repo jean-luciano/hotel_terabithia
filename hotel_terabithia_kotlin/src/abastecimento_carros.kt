@@ -35,4 +35,5 @@ fun abastecimento_carros() {
             }
         }
     }
+    main()
 }
